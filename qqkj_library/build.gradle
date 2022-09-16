@@ -75,10 +75,10 @@ dependencies {
     compile 'com.journeyapps:zxing-android-embedded:3.5.0'
 
     //支付宝支付
-    compile files('src/libs/alipaySdk-20170922.jar')
+//    compile files('src/libs/alipaySdk-20170922.jar')
 
     //阿里上传文件
-    compile 'com.aliyun.dpa:oss-android-sdk:2.4.4'
+//    compile 'com.aliyun.dpa:oss-android-sdk:2.4.4'
 
     //阿里推送
 
